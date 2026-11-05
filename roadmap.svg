@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img">
+  <rect width="720" height="260" fill="#eef3fb"/>
+  <text x="360" y="36" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#1f3a5f">8-Week Interview Preparation Roadmap</text>
+  <g font-family="Arial" font-size="14" fill="#fff" text-anchor="middle">
+    <rect x="20" y="80" width="120" height="70" rx="8" fill="#1f3a5f"/><text x="80" y="110">Weeks 1-3</text><text x="80" y="132">DSA</text>
+    <rect x="160" y="80" width="120" height="70" rx="8" fill="#2f5d9e"/><text x="220" y="110">Week 4</text><text x="220" y="132">OS</text>
+    <rect x="300" y="80" width="120" height="70" rx="8" fill="#1f3a5f"/><text x="360" y="110">Week 5</text><text x="360" y="132">DBMS</text>
+    <rect x="440" y="80" width="120" height="70" rx="8" fill="#2f5d9e"/><text x="500" y="110">Week 6</text><text x="500" y="132">CN + OOPs</text>
+    <rect x="580" y="80" width="120" height="70" rx="8" fill="#1f3a5f"/><text x="640" y="110">Weeks 7-8</text><text x="640" y="132">Mocks</text>
+  </g>
+  <text x="360" y="210" text-anchor="middle" font-family="Arial" font-size="14" fill="#444">Study, practice, revise, then mock interview</text>
+</svg>
